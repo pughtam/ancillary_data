@@ -3,6 +3,8 @@
 # Created by: laviniageorgescu
 # Created on: 22/07/2020
 
+# ***** NOTE: THIS IS A MISH-MASHED 'HOW-TO', NOT A WRAPPER!!! *****
+
 ####  CUSTOM RASTER AGGREGATE IN R
 library(raster)
 
