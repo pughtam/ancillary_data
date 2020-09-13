@@ -9,8 +9,11 @@ https://github.com/AEMuelbert/climate_data.git
 
 ## Linked GEE scripts
 
-Extracting topographic information:
-https://code.earthengine.google.com/83ffa8421972e627912ddf6f7f7da093
+### GEE Repository: 
+https://code.earthengine.google.com/?accept_repo=users/NXA807/TreeMort-Ancillary 
 
-Instructions on how to use GEE script: 
+### GEE git: 
+git clone https://earthengine.googlesource.com/users/NXA807/TreeMort-Ancillary 
+
+### Instructions on how to use GEE script: 
 https://docs.google.com/document/d/1ulgBZ7LW1Pn7chfEpIEkpH2nvwfxRoWckmpjKHIaYms/edit?usp=sharing
